@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="reload">Reload</string>
+    <string name="give_it_another_try">Give it another try</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="humidity_label">Humidity : </string>
+    <string name="wind_label">Wind : </string>
+    <string name="seach">Seach</string>
+    <string name="enter_the_zip_code">enter the zip code</string>
+    <string name="_25">25</string>
+    <string name="please_enter_the_zip_code">Please enter the zip code</string>
+    <string name="please_enter_valid_zip_code">Please enter valid zip code</string>
+    <string name="temp">°C</string>
+    <string name="city_name">City Name</string>
+</resources>
