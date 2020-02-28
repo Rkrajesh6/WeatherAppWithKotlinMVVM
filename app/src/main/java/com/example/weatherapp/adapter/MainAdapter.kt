@@ -39,7 +39,6 @@ class MainAdapter(val context: Context, list: List<ListItem>) :
         mList = list
         notifyDataSetChanged()
     }
-
     inner class MainViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val tvTeprature: TextView = itemView.findViewById(R.id.tvTeprature)
         val tvHumadity: TextView = itemView.findViewById(R.id.tvHumadity)
